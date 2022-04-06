@@ -34,3 +34,6 @@ print(res_doublePai)
 res_doubleMult = "the result of "+ str(numberOne) +" **"+ str(numberTwo) +" is " + str(numberOne**numberTwo)
 print(res_doubleMult)
 
+
+
+
