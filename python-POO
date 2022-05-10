@@ -1,0 +1,63 @@
+class:  A class is a collection of objects. a class contains the 	
+	(blueprints)planos or the prototype from which the objects are being	
+	created. -->Prototipo : coches
+	
+	it is a logical entity that contains some attributes and methods.
+			
+     Some points on Python class:  
+
+    	*Classes are created by keyword class.
+   	*Attributes are the variables that belong to a class. 
+   	variables:-->caracts_coche1
+    	Attributes are always public and can be accessed using the dot (.) 	
+    	operator. ejemplo---> Myclass.Myattribute
+example created an class
+Python 3
+class Dog()  #Demostrate defining a_class  
+	pass	
+    	
+objetcs: The objetc is an entity that has a state and behavior-comportamiento
+	 associated with it , it may be any real-world objetc like a mouse,
+	 keyboard,chair,table ,pen, etc.
+       An object consists of:
+	 state: 	  It is represented by the attributes of an object-
+	       	  it also reflect the properties of an objects.
+	 behavior: it is represented by the methods of an object. It also
+		  reflects the response of an object to other objects.
+	 identity: It gives a unique name to an object and enables one
+		  object to interact with other objects.
+		  
+	to understand the state, behavior,and identity let us take the example
+	class dog
+	The identity can be considered as the name of the dog.
+	state or attributes can be considered as the breed,age,or color of the 
+	dog.
+	The behavior can be considered as to whether the dog is eating or sleeping
+	
+example created an object
+Python 3
+obj = Dog()  #this will create an objetc named obj of the class Dog defined  
+		above(sobre)
+
+The self
+	1.-class methods must have an extra first paramether in the method 
+	definition. We do not give a value for this parameter when we call the
+	method, Python provides it.
+	
+	2.-if we have a method that takes no arguments, then we still have to have 
+	one argument __the self__
+	
+	3.-This is similar to this pointer in C++ and this reference in Java
+	
+The __init__method:
+	the__init__method is similar to constructors in C++ and java., It is run as soon an object of a class is instantiated.
+	The method is useful to do any initialization you want to do with your object.
+	Now let us define a class and create some objects using the self and __init__method
+
+
+		
+
+
+			
+	 
+	 
