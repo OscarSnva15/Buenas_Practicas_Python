@@ -1,1 +1,2 @@
 # field_python
+FRONT-END / BACK-END, En este caso en el repositorio podras encontrar programacion python ,.En el cual se contemplo el uso de librerias, tecnicas asi como paradigmas de programacion existentes y porporcionados por este lenguaje, Pero en este caso para desarollo web y machine learning en proporcionar Inteligencia Artificial.
